@@ -1,1 +1,1 @@
-The project is about uploading previous project file within a repository of its own,adding a ReadME.md file then pushing the repository to Github
+The project is on helping a stores company to determine which of its 10 products in the stores are likely to be purchased together.This was done through Market Basket Analysis methods.
